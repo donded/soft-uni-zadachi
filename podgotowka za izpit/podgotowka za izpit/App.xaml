@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="podgotowka_za_izpit.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:podgotowka_za_izpit"
+    RequestedTheme="Light">
+
+</Application>

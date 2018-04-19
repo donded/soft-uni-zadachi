@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="_06.Number_in_Range__1._._._100_.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_06.Number_in_Range__1._._._100_"
+    RequestedTheme="Light">
+
+</Application>
